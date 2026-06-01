@@ -110,6 +110,9 @@ The JavaScript file handles:
 - AI / Machine Learning Basics
 
 ---
+# deployment link
+
+https://faheem007-git.github.io/portfolio/ 
 
 # Future Improvements
 
